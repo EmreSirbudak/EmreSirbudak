@@ -1,4 +1,3 @@
-[![MasterHead](https://www.123rf.com/photo_110173006_programming-web-banner-best-programming-languages-technology-process-of-software-development.html)
 <h1 align="center">Hi 👋, I'm Emre Sırbudak</h1>
 - 🔭 I’m currently working on **Python**
 
